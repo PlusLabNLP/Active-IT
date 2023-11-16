@@ -3,7 +3,7 @@
   <img src="imgs/Active-Instruction-Tuning.png" style = "width:300px"/>
 </p>
 
-- This repo releases our implementation for the ActiveIT in the [Active Instruction Tuning paper](https://arxiv.org/abs/2311.00288).
+- This repo releases our implementation for the ActiveIT in the paper [Active Instruction Tuning: Improving Cross-Task Generalization by Training on Prompt Sensitive Tasks](https://arxiv.org/abs/2311.00288).
 - Active Instruction Tuning aims to select novel tasks from a large task pool, and continuously improve the model's performance by training on this subset of tasks
 - In this work, we proposed the following three components:
   * **Active Instruction Tuning**: A framework to actively select novel tasks to improve an instruction-tuned model.
