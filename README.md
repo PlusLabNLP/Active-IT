@@ -7,7 +7,7 @@
 - Active Instruction Tuning aims to select novel tasks from a large task pool, and continuously improve the model's performance by training on this subset of tasks
 - In this work, we proposed the following three components:
   * **Active Instruction Tuning**: A framework to actively select novel tasks to improve an instruction-tuned model.
-  * **Prompt Uncertainty**: Measure prompt sensitiveness of a task to a model and identify novel 
+  * **Prompt Uncertainty**: Measure prompt sensitiveness of a task to a model and identify novel tasks.
   * **Task Map**: Task categorization tool to identify Easy, Difficult, and Ambiguous tasks without the need for data labels. 
 
 ## About This Repo 
